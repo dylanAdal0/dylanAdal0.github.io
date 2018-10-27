@@ -9,3 +9,15 @@
 .a {
         color: antiquewhite;
     }
+
+#d{
+    color: deeppink;
+    font-size: 20px;
+    text-align: left;
+}
+
+#e{
+    color:darkred;
+    font-size: 20px;
+    text-align: left;
+}
